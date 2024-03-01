@@ -1,0 +1,96 @@
+            <section id="students">
+                <h2>Обучающиеся 8Б класса</h2>
+                <div class="main-content">
+
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Абрамов Илья</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Алексеева Алина</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Бритов Данила</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Бык Вадим</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Воронкова Наталья</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Елемесова Агата</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Захаров Марк</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Иваненко Максим</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Камагуров Руслан</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Караваева Мария</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Ковалев Александр</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Кольмаер Арина</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Кудрин Егор</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Лаптева Таисия</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Лиханова Мария</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Мамаш Марина</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Мельникова Полина</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Нестеров Данила</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Павлов Роман</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Петров Данила</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Петрова Надежда</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Прокудин Матвей</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Пунгин Данил</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Пятков Вячеслав</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Романьков Илья</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Рыбак-Франко Александр</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Свиряева Злата</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Симонова Анна</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Ситников Роман</span>
+                    </div>
+                    <div class="button" data-text="Обучающийся">
+                        <span class="button-text">Шенкнехт Олег</span>
+                    </div>
+                </div>
+            </section>
